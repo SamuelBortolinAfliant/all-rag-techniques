@@ -1,0 +1,13 @@
+{
+  "query": "What is Quantum Computing?",
+  "ground_truth": "|\u03c8\u27e9 = \u03b1|0\u27e9 + \u03b2|1\u27e9, where \u03b1 and \u03b2 are complex numbers satisfying |\u03b1|\u00b2 + |\u03b2|\u00b2 = 1, representing the probability amplitudes for measuring the qubit in state |0\u27e9 or |1\u27e9 respectively.",
+  "simple_rag": {
+    "response": "\u03c8  \u03b10  \u03b21 \n",
+    "similarity": 0.6969716342960571
+  },
+  "rl_rag": {
+    "response": "Here's the answer to your questions:\n\n**Option 1 (Direct and Focused):**\n\n* **What is the mathematical representation of a qubit in superposition, specifically using the complex number notation \u03b10 and \u03b21?** \n    * This clarifies the desired mathematical representation and explicitly asks for the complex number representation.\n\n**Answer:**  A qubit in superposition is represented mathematically as  \u03c8 \u03b10 \u03b21 where \u03b1 and \u03b2 are complex numbers satisfying \u03b1\u00b2 + \u03b2\u00b2 = 1. \n\n\nLet me know if you'd like to explore further about quantum concepts! \n",
+    "similarity": 0.8255238787593638
+  },
+  "improvement": 0.1285522444633067
+}
