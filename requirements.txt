@@ -1,4 +1,4 @@
-pymupdf
+PyMuPDF
 numpy
 openai
 requests
